@@ -2,7 +2,7 @@
 
 Smart Brain is a web app that uses the Clarifai API to locate a face in a picture. Using a React.js front-end and Node.js backend with Express.js as well as a PosrtgreSQL database to keep track of how many entries every user has made.
 
-![Smart Brain Capture](https://imgur.com/3SGGC2I.jpg)
+![smart](https://user-images.githubusercontent.com/65850505/87713503-f02b2480-c7c7-11ea-87fd-4ebcb0841f78.PNG)
 
 
 ## Technologies Used
